@@ -1,0 +1,5 @@
+Botas do Mago
+$ 700
++300 de Vida.
+Único: +40 de Velocidade de Movimento.
+Único Passivo: Pilhar: assistências garantem +80 de ouro.

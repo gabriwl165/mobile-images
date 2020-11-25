@@ -1,0 +1,5 @@
+Sapatos Demoníacos
+$ 720
++30 de Regeneração de Mana.
+Único: +40 de Velocidade de Movimento.
+Único Passivo: Misticismo: Eliminações e assistências regeneram a mana do herói em 10%. Eliminações de minions regeneram 4%.

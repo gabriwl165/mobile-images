@@ -1,0 +1,5 @@
+Botas de Guerreiro
+$ 690
++22 de Defesa Física.
+Único: +40 de Velocidade de Movimento.
+Único Passivo: Valência: Quando receber o dano de ataque básico elevará 5 pontos de Defesa Física, ao máximo de 25 pontos. Dura 3 segundos.

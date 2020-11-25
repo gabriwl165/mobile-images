@@ -1,0 +1,4 @@
+Sapatos Velocidade Relâmpago
+$ 750
+Único: +80 de Velocidade de Movimento.
+Único Passivo: Efeito Colateral: Causar ou levar dano diminui a Velocidade de Movimento em 40 pontos. Dura 5 segundos.

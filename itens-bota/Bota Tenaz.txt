@@ -1,0 +1,5 @@
+Bota Tenaz
+$ 890
++ 22 de Defesa Mágica.
+Único: +40 de Velocidade de Movimento.
+Único Passivo: Resistência: Reduz o tempo de controle em 25%.
